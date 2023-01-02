@@ -1,4 +1,5 @@
 # JavaServerPages (Information Technology)
+### All these practicals were done to understand the core concepts of the subject, the practicals done and the theory covered are mentioned below.   
 
 ## Practicals
 
